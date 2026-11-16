@@ -1,0 +1,7 @@
+{
+  "name": "sportTrack",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
